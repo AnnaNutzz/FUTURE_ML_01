@@ -23,9 +23,13 @@ It covers:
 
 ## 📂 Project Structure
 mock_kaggle.csv # Raw dataset
+
 FUTURE_ML_01.ipynb # Python script for forecasting
+
 FUTURE_ML_01_PBi.pbix # Power BI dashboard file
+
 sales_actual_forecast.csv # Forecast results for Power BI
+
 README.md # Project documentation
 
 ---
